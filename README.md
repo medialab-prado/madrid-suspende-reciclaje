@@ -13,4 +13,5 @@ En Madrid, por ejemplo, sólo ahora se está implantando el contenedor de basura
 
 Creo que una presentación atractiva de los datos recopilados en los informes, acompañados por una pieza periodística con fuentes expertas que ayuden a interpretar la gestión de residuos podría constituir un proyecto interesante para aprender y a la vez útil para dar visibilidad a esta cuestión relacionada con la sostenibilidad de nuestro entorno.
 
+---
 [Proyecto seleccionado](https://www.medialab-prado.es/proyectos/polucion-gratuita-de-la-industria-la-basura) dentro del [Taller de Periodismo de datos 2018](https://www.medialab-prado.es/proyectos/madrid-suspende-en-reciclaje): Los ODS relacionados con Medio Ambiente en Madrid
